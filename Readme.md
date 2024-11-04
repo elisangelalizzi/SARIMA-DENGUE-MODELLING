@@ -1,4 +1,4 @@
-# Modelagem SARIMA ( (Seasonal Autoregressive Integrated Moving Average) para dados mensais de dengue em Londrina-PR com predição out of sample
+# Modelagem SARIMA (Seasonal Autoregressive Integrated Moving Average) para dados mensais de dengue em Londrina-PR com predição out of sample
 ## Publicação: Time series models for the description and forecasting of incident cases of dengue: a case study in Londrina- Paraná
 
 Artigo estruturado com passo a passo da modelagem SARIMA indutiva em estudos epidemiológicos para arbovirose.
